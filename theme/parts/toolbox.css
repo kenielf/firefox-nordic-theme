@@ -19,7 +19,7 @@
 	border-bottom: 1px solid var(--nordic-toolbar-border-color) !important;
 }
 #nav-bar:-moz-window-inactive,
-#PersonalToolbar:-moz-window-inactive, #toolbar-menubar:-moz-window-inactive, 
+#PersonalToolbar:-moz-window-inactive,
 #TabsToolbar:-moz-window-inactive, findbar:-moz-window-inactive {
 	background: var(--nordic-inactive-toolbar-background) !important;
 	border-bottom: 1px solid var(--nordic-inactive-toolbar-border-color) !important;
