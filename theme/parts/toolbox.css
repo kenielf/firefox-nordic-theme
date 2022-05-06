@@ -50,13 +50,13 @@ findbar:-moz-window-inactive label,
 }
 
 /* Reorder toolbars */
-#navigator-toolbox #nav-bar, findbar {
+#navigator-toolbox #titlebar {
 	-moz-box-ordinal-group: 0;
 }
-#navigator-toolbox #PersonalToolbar {
+#navigator-toolbox #nav-bar, findbar {
 	-moz-box-ordinal-group: 1;
 }
-#navigator-toolbox #titlebar {
+#navigator-toolbox #PersonalToolbar {
 	-moz-box-ordinal-group: 2;
 }
 #navigator-toolbox toolbar {
